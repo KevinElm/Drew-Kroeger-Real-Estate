@@ -385,7 +385,12 @@ footer img {
 	}
 
 	div.site-name h1 {
-		padding-bottom: .2em;
+		padding-bottom: .1em;
+		font-size: 300%;
+	}
+
+	div.site-name h2 {
+		font-size: 100%;
 	}
 
 	nav.topnav {
