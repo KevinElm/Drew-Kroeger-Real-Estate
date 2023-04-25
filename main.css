@@ -322,7 +322,7 @@ footer img {
 	}
 
 	article.intro p {
-		font-size: 150%;
+		font-size: 120%;
 	}
 
 	main.homepage aside h3{
@@ -416,7 +416,7 @@ footer img {
 	article.intro {
 		grid-column: 1/3;
 		line-height: 1.3;
-		font-size: 110%;
+		font-size: 90%;
 	}
 
 	main.homepage aside {
