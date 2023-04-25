@@ -57,7 +57,7 @@ header img {
 
 header h1 {
 	font-size: 400%;
-	margin-bottom: .15em;
+	margin-bottom: .05em;
 }
 
 header h1 a {
@@ -289,7 +289,12 @@ footer img {
     }
 
 	div.site-name h1 {
-		padding-bottom: .2em;
+		font-size: 350%;
+		padding-bottom: .1em;
+	}
+
+	div.site-name h2 {
+		font-size: 105%;
 	}
 
 	nav.topnav {
