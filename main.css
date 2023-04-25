@@ -339,6 +339,10 @@ footer img {
 		padding: .5em;
 	}
 
+	footer {
+		font-size: 90%;
+	}
+
 }
 
 @media (max-width: 800px) {
